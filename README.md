@@ -1,0 +1,1 @@
+# Analisi-statica-e-dinamica
